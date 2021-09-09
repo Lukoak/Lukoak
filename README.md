@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Lukoak
+- 👀 I’m interested in Cybersecurity, development n' computer science
+- 🌱 I’m currently learning everything
+- 💞️ I’m looking to collaborate with other Hackers and learn from them
